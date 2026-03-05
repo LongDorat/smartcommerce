@@ -1,0 +1,12 @@
+<Solution>
+  <Project Path="frontend/frontend.esproj">
+    <Build />
+    <Deploy />
+  </Project>
+  <Project Path="SmartCommerce.ApiService/SmartCommerce.ApiService.csproj" />
+  <Project Path="SmartCommerce.AppHost/SmartCommerce.AppHost.csproj" />
+  <Project Path="SmartCommerce.MAUI/SmartCommerce.MAUI.csproj" Id="51ed97ee-ba2d-49be-ab80-c81c045336ff">
+    <Deploy />
+  </Project>
+  <Project Path="SmartCommerce.Server/SmartCommerce.Server.csproj" />
+</Solution>
